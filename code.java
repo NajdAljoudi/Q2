@@ -1,5 +1,7 @@
 //----------------------------------------------------------------------------------------------
 
+// name:نجد حسين الجودي
+// ID:445001419
 // Java code for linearly search x in arr[]. If x
 
 // is present then return its location, otherwise
@@ -44,7 +46,7 @@ class LinearSearch {
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 7;// Changing the value of x to 7 as required
 
                         int index = search(arr, n, x);
 
